@@ -1,0 +1,23 @@
+
+
+body{
+    background: #f3f4f5;
+}
+
+#titulo{
+    font-family: Arial;
+    font-weight: 24px;
+    color: black;
+}
+
+.texto-1{
+    font-family: Georgia;
+    font-weight: 18px;
+    color: #757575;
+}
+
+.texto-2{
+    font-family: Georgia;
+    font-weight: 18px;
+    color: #757575;
+}
